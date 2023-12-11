@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-contract-tenant/ec-main-ci/ec-cli-main-ci@sha256:104423a7cb6a6a0add570723c3f32226a26dcf142fc7b438c7a19e36b0570c87
+      - image: quay.io/redhat-user-workloads/rhtap-contract-tenant/ec-main-ci/ec-cli-main-ci@sha256:501962e8c0c28ffde39208f454311025a92765ff1126f6bd029878aed459a4df
         name: container-image
         resources: {}
 status: {}
